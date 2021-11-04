@@ -1,0 +1,107 @@
+/* *****************
+
+COMMON
+
+*******************/
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.font-primary {
+  color: #92595c;
+}
+
+.title-icon {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+a.font-black {
+  color: #000 !important;
+}
+
+/********************
+
+ABOUT
+
+*******************/
+
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+#about img {
+  border-radius: 80px;
+  width: 150px;
+  margin-bottom: 15px;
+}
+
+#about .name {
+  font-size: 19px;
+  font-weight: 450 ;
+}
+
+#about .vocation {
+  color: rgb(46, 105, 67);
+  font-size: 17px;
+  font-weight: 500; 
+  font-style: stretched;
+  margin-bottom: 10px;
+}
+
+#about .skills {
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+#about .email {
+  margin-top: 14px;
+  font-size: 14px;
+}
+
+#about .icons {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+#about .icons a {
+  color: rgb(0, 0, 0);
+}
+
+/********************************
+
+PROJECT
+
+*********************************/
+
+#project {
+  margin: 60px auto;
+  max-width: 80%;
+}
+
+#project h2 {
+  text-align: center;
+}
+
+#project img {
+  width: 100%;
+}
+
+#project .card-title {
+  font-weight: bold;
+}
