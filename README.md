@@ -3,8 +3,7 @@ This portfolio is a small project using HTML / CSS / and Bootstrap. I will be us
 
 [Live Heroku Deployment](https://portfolio-tanell.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/92600143/140254056-9261589f-f6ce-4d4f-a8ba-b206bd04c504.png)
-
+![image](https://user-images.githubusercontent.com/92600143/140254173-be99c3b3-740f-4de9-b70d-9da94abe53c7.png)
 
 ## Technologies Used
 
